@@ -185,6 +185,9 @@ Display the contact email address set in the configuration file.
   <strong>Signing up:</strong> please visit <a href="https://uio.pameldingssystem.no/registration-course-id-4">the course registration page</a>.
 </p>
 
+<p><button onclick="window.location.href ='https://uio.pameldingssystem.no/registration-course-id-4';">Sign up</button></p>
+
+
 <hr/>
 
 {% comment%}
