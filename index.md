@@ -181,12 +181,11 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-<hr/>
-
 <p id="signup">
   <strong>Signing up:</strong> please visit <a href="https://uio.pameldingssystem.no/registration-course-id-4">the course registration page</a>.
 </p>
 
+<hr/>
 
 {% comment%}
 CODE OF CONDUCT
