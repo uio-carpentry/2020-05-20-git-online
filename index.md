@@ -182,10 +182,10 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="signup">
-  <strong>Signing up:</strong> please visit <a href="https://uio.pameldingssystem.no/registration-course-id-4">the course registration page</a>.
+  <strong>Signing up:</strong> please visit <a href="https://uio.pameldingssystem.no/registration-course-id-4">the course registration page</a> or click the button below.
 </p>
 
-<p><button onclick="window.location.href ='https://uio.pameldingssystem.no/registration-course-id-4';">Sign up</button></p>
+<p><center><button onclick="window.location.href ='https://uio.pameldingssystem.no/registration-course-id-4';">Sign up</button><c/enter></p>
 
 
 <hr/>
