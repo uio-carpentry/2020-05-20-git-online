@@ -128,8 +128,11 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
+  <strong>Requirements:</strong> Participants must have a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Having a second screen, or a second device (laptop, tablet or even smartphone) will help with following along.
+  This meeting will be done using the Zoom online videoconferencing program. 
+  The use of headphones and/or a microphone is recommended but not required.
 </p>
 
 {% comment %}
@@ -141,17 +144,11 @@ special instructions.
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
-  The workshop organizers have checked that:
 </p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
 <p>
   Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
+  If we can help making learning easier for
+  you (e.g. sign-language interpreters, closed captioning) please
   get in touch (using contact details below) and we will
   attempt to provide them.
 </p>
