@@ -1,5 +1,3 @@
-
-
 # Zoom mechanics and controls
 
 - [How to mute and unmute](#how-to-mute-and-unmute)
@@ -70,3 +68,7 @@ Breakout Room" (bottom right):
 
 There are also signals for faster and slower and with this you can indicate to
 us whether we should adjust the speed.
+
+
+-----------
+This page modified after the [Coderefinery project Zoom manual](https://github.com/coderefinery/manuals) in accordance with their CC-BY license.
