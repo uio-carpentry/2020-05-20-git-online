@@ -2,10 +2,11 @@
 
 - [How to mute and unmute](#how-to-mute-and-unmute)
 - [Please use your real name (instead of a system default username)](#please-use-your-real-name-instead-of-a-system-default-username)
-- [How to signal if you are away from keyboard](#how-to-signal-if-you-are-away-from-keyboard)
+- [How to ask a question](#how-to-ask-a-question)
 - [How to signal when you completed a task successfully](#how-to-signal-when-you-completed-a-task-successfully)
 - [How to signal a technical problem or that you got stuck](#how-to-signal-a-technical-problem-or-that-you-got-stuck)
 - [How to give feedback on the speed](#how-to-give-feedback-on-the-speed)
+- [How to signal if you are away from keyboard](#how-to-signal-if-you-are-away-from-keyboard)
 
 
 ## How to mute and unmute
@@ -31,12 +32,12 @@ You can rename yourself by clicking the blue "Rename" next to your name:
 
 <img src="img/rename2.jpg" width="800"/>
 
+## How to ask a question
 
-## How to signal if you are away from keyboard
+If you want to ask a question please type "\hand" in the chat window:
 
-Please select the "clock" symbol if you are away or otherwise busy:
+<img src="img/chat.jpg" width="800"/>
 
-<img src="img/clock.jpg" width="400"/>
 
 
 ## How to signal when you completed a task successfully
@@ -69,6 +70,11 @@ Breakout Room" (bottom right):
 There are also signals for faster and slower and with this you can indicate to
 us whether we should adjust the speed.
 
+## How to signal if you are away from keyboard
+
+Please select the "clock" symbol if you are away or otherwise busy:
+
+<img src="img/clock.jpg" width="400"/>
 
 -----------
 This page modified after the [Coderefinery project Zoom manual](https://github.com/coderefinery/manuals) in accordance with their CC-BY license.
